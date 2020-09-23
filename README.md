@@ -1,4 +1,4 @@
 # ParserPogoda
 ## Описание
 Проект парсера прогноза погоды
-![ScreenShot]()
+![ScreenShot](img/Pogoda.png)
